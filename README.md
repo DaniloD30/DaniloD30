@@ -34,7 +34,7 @@
 
 ## Olá, tudo bem?
 
-🏻‍💻 Me chamo **Danilo Oliveira Dias**, tenho 23 anos, estou no TCC do curso  de Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
+Me chamo **Danilo Oliveira Dias**, tenho 23 anos, estou no TCC do curso  de Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
 
 
 ## Habilidades 
