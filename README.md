@@ -32,12 +32,12 @@
 	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
 </p>
 
-## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
+## Olá, tudo bem?
 
-👨🏻‍💻 Me chamo **Danilo Oliveira Dias**, tenho 23 anos, estou no TCC do curso  de Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
+🏻‍💻 Me chamo **Danilo Oliveira Dias**, tenho 23 anos, estou no TCC do curso  de Análise e Desenvolvimento de Sistemas, apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Front-end**.
 
 
-## Habilidades 👨🏻‍💻
+## Habilidades 
 
 <!-- Skills -->
 Algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
