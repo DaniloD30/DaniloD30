@@ -34,11 +34,19 @@
 
 ## Olá, tudo bem?
 
-Superior em Análise e desenvolvimento de sistemas pelo IFBA (2016-2022), sou um Desenvolvedor de Software que atua na área desde 2018. Tenho experiência com diversas tecnologias do mercado, das quais gosto de destacar ReactJS para Front-End.
+FrontEnd Developer, specialized in ReactJS. 
+Bachelor's degree in systems analysis and development.
+Working professionally with ReactJS since 2019, improving application's performance and integrations 
+Everything covered with Jest and Testing Library
 
-Atualmente estou focado em desenvolver meus conhecimentos sobre otimizações em aplicações Front-End, Testes Únitários e NextJS.
+I'm passionate about building successful products, great team player, experienced in streamlining processes to improve customer experience and efficiently troubleshooting project issues.
 
-Meu principal objetivo é que a longo prazo desejo ser uma referência em termos de técnica e liderança. E para isso, procuro aprender mais todos os dias..
+Technical Abilities:
+• ReactJS, NextJS;
+• HTML5 | CSS3;
+• Tailwind CSS;
+• Git;
+• Jest, Testing Library;
 
 
 ## Habilidades 
