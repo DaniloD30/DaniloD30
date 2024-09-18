@@ -49,16 +49,4 @@ Technical Abilities:
 • Jest, Testing Library;
 
 
-## Habilidades 
-
-<!-- Skills -->
-Algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
-- 💻 **Front-end**: HTML, CSS, JavaScript, React.
-- 🔠 **Linguagens**: HTML/CSS, JavaScript, ES6+, TypeScript.
-- 🏷️ **Versionamento**: Git.
-- 🧪 **Testes e automatização**: NPM, Jest.
-- 🎲 **Banco de Dados**: Linguagem SQL, Modelagem de dados, MySQL.
-- 👷🏻 **Arquitetura**: Rest, Orientação a Objetos, Flux.
-
-
 Você também pode visualizar todos os meus repositórios [aqui](https://github.com/DaniloD30?tab=repositories&q=&type=source&language=).
